@@ -1,2 +1,2 @@
 # Voice_Translator
-This repository contains project created for Speech Technology classes.
+This branch contains implementation of WhisperAI module and function for transcribing audio applied to main.py file. 
