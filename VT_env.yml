@@ -1,0 +1,7 @@
+name: VT_env
+channels:
+  - defaults
+dependencies:
+  - pip
+  - pip:
+    - -r requirements.txt
