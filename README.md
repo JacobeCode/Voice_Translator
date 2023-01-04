@@ -1,2 +1,2 @@
 # Voice_Translator
-This repository contains project created for Speech Technology classes.
+This branch contains implementation of PyAudio module and functions for recording audio from microphone and saving it to wav file.
